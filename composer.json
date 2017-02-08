@@ -1,5 +1,5 @@
 {
-    "name": "flynsarmy/db-blade-compiler",
+    "name": "phoogkamer/db-blade-compiler",
     "description": "Render Blade templates from Eloquent Model Fields",
     "keywords": ["laravel", "blade", "compiler", "eloquent", "model"],
     "license": "MIT",
